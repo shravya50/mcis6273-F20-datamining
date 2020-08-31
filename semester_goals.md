@@ -9,3 +9,4 @@ Few appplications of Data mining in real life are:
 - Business
 - Medicine
 - Telivision and Radio
+- E Commerce
